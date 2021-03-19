@@ -7,7 +7,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 # v5.11.2
 ## (2021-03-19)
 
-* Fix typos [Pagan Gazzard]
+* Updated BB Section [kenna]
 
 # v5.11.1
 ## (2021-03-19)
