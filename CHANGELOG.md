@@ -7,6 +7,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 # v5.10.1
 ## (2021-03-19)
 
+* Create jetson-xavier-nx-devkit.md [dtischler]
 * Improve build optimization instructions [Rahul Thakoor]
 
 # v5.10.0
